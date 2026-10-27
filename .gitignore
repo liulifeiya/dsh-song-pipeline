@@ -1,0 +1,24 @@
+﻿# 音频与中间产物 —— 不放进仓库
+bin/
+in/
+out/
+sep/
+cover/
+tmp/
+*.mgg
+*.mflac
+*.mflac0
+*.ogg
+*.mp3
+*.wav
+*.flac
+*.m4a
+*.aac
+
+# 运行时状态与日志
+*-state.json
+*.log
+
+# Windows
+Thumbs.db
+desktop.ini
